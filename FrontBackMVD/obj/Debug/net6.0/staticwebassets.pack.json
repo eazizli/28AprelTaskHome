@@ -1,0 +1,293 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\blog-bg.png",
+      "PackagePath": "staticwebassets\\images\\blog-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\blog-mobile-bg.png",
+      "PackagePath": "staticwebassets\\images\\blog-mobile-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\images\\call-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\client-img.png",
+      "PackagePath": "staticwebassets\\images\\client-img.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\client-img1.png",
+      "PackagePath": "staticwebassets\\images\\client-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\fb-icon.png",
+      "PackagePath": "staticwebassets\\images\\fb-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\footer-bg.png",
+      "PackagePath": "staticwebassets\\images\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\footer-mobile-bg.png",
+      "PackagePath": "staticwebassets\\images\\footer-mobile-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\img-1.png",
+      "PackagePath": "staticwebassets\\images\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\img-2.png",
+      "PackagePath": "staticwebassets\\images\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\img-3.png",
+      "PackagePath": "staticwebassets\\images\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\instagram-icon.png",
+      "PackagePath": "staticwebassets\\images\\instagram-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\linkedin-icon.png",
+      "PackagePath": "staticwebassets\\images\\linkedin-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\images\\mail-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\images\\map-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\mobile-bg.png",
+      "PackagePath": "staticwebassets\\images\\mobile-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\play-icon.png",
+      "PackagePath": "staticwebassets\\images\\play-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\quick-icon.png",
+      "PackagePath": "staticwebassets\\images\\quick-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\twitter-icon.png",
+      "PackagePath": "staticwebassets\\images\\twitter-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\images\\youtub-icon.png",
+      "PackagePath": "staticwebassets\\images\\youtub-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\victu\\Downloads\\FrontBackMVD\\FrontBackMVD\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FrontBackMVD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FrontBackMVD.props",
+      "PackagePath": "build\\FrontBackMVD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontBackMVD.props",
+      "PackagePath": "buildMultiTargeting\\FrontBackMVD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FrontBackMVD.props",
+      "PackagePath": "buildTransitive\\FrontBackMVD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
